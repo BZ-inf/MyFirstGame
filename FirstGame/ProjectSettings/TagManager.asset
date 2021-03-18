@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Eattack
+  - FEnemy
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,10 @@ TagManager:
     locked: 0
   - name: Frog
     uniqueID: 3261056701
+    locked: 0
+  - name: Fox
+    uniqueID: 3466600405
+    locked: 0
+  - name: Eagle
+    uniqueID: 745521017
     locked: 0
